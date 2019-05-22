@@ -25,5 +25,10 @@ npm run test
 npm run lint
 ```
 
+### vue config 설정
+```
+vue ui
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/)
