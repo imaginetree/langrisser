@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # epic7
 
 ## Project setup
