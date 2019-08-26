@@ -1,4 +1,4 @@
-# epic7
+# langrisser
 
 ## Project setup
 ```
